@@ -258,6 +258,78 @@ html, body {
   text-decoration: none;
 }
 
+.statistics {
+  flex-direction: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  display: flex;
+}
+
+.statistics__hdl {
+  color: #000;
+  text-align: center;
+  margin-top: 3.125rem;
+  margin-bottom: 0;
+  font-family: Raleway, sans-serif;
+  font-size: 1.875rem;
+  font-weight: 400;
+}
+
+.items .item {
+  flex-direction: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 1.5625rem;
+  margin-bottom: 0;
+  display: flex;
+}
+
+.items .item .graph {
+  display: flex;
+  position: relative;
+}
+
+.items .item .graph__circle {
+  background-color: gray;
+  border-radius: 50%;
+  width: 3.91938rem;
+  height: 3.91938rem;
+}
+
+.items .item .graph__img {
+  margin-top: .1875rem;
+  margin-bottom: 0;
+  position: absolute;
+  left: 1.95969rem;
+}
+
+.items .item__hdl {
+  letter-spacing: .3725rem;
+  color: #000;
+  margin-top: .88625rem;
+  margin-bottom: 0;
+  font-family: Raleway, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 800;
+  display: flex;
+  position: relative;
+}
+
+.items .item__dsc {
+  color: #a5a5a5;
+  margin-top: 1.19438rem;
+  margin-bottom: 0;
+  font-family: Raleway, sans-serif;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  display: flex;
+  position: relative;
+}
+
 .logo {
   color: #08a6e4;
   padding-top: 1.0625rem;
