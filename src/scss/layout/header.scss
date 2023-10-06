@@ -1,0 +1,14 @@
+@import "../helpers/functions";
+@import "../helpers/mixins";
+
+.header {
+  box-shadow: 0 3px 6px #00000029;
+
+
+  &__inner {
+    width: 100%;
+    padding-inline: px-to-rem(25px);
+    box-sizing: border-box;
+    @include flex(space-between, center);
+  }
+}
