@@ -9,7 +9,7 @@
 102C:\Users\1\projects\BestShop_RWD\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133410514441074551 0
 81C:\Users\1\projects\BestShop_RWD\node_modules\htmlparser2\lib\WritableStream.d.ts133410514433152955 0
 61C:\Users\1\projects\BestShop_RWD\node_modules\source-map\dist133410514433996569 1
-37C:\Users\1\projects\BestShop_RWD\dist133414049929810895 1
+37C:\Users\1\projects\BestShop_RWD\dist133414067391200605 1
 86C:\Users\1\projects\BestShop_RWD\node_modules\css-select\node_modules\entities\LICENSE133410514428109119 0
 61C:\Users\1\projects\BestShop_RWD\node_modules\chalk\readme.md133410514430471401 0
 94C:\Users\1\projects\BestShop_RWD\node_modules\css-tree\cjs\tokenizer\char-code-definitions.cjs133410514432594295 0
@@ -34,11 +34,11 @@
 69C:\Users\1\projects\BestShop_RWD\node_modules\utility-types\README.md133410514432473718 0
 93C:\Users\1\projects\BestShop_RWD\node_modules\@parcel\transformer-json\src\JSONTransformer.js133410514428970368 0
 64C:\Users\1\projects\BestShop_RWD\node_modules\is-extglob\LICENSE133410514428771576 0
-38C:\Users\1\projects\BestShop_RWD\.idea133414051912135240 1
+38C:\Users\1\projects\BestShop_RWD\.idea133414070045381428 1
 59C:\Users\1\projects\BestShop_RWD\src\images\Checkmark-1.svg133410754615253231 0
 113C:\Users\1\projects\BestShop_RWD\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133410514436150276 0
 78C:\Users\1\projects\BestShop_RWD\node_modules\css-tree\lib\syntax\node\Rule.js133410514440649177 0
-43C:\Users\1\projects\BestShop_RWD\index.html133414034776295806 0
+43C:\Users\1\projects\BestShop_RWD\index.html133414070552436090 0
 78C:\Users\1\projects\BestShop_RWD\node_modules\css-select\lib\attributes.js.map133410514434694004 0
 111C:\Users\1\projects\BestShop_RWD\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\color.js133410514432942890 0
 60C:\Users\1\projects\BestShop_RWD\src\scss\media_queries.scss133410754615342924 0
@@ -64,7 +64,7 @@
 120C:\Users\1\projects\BestShop_RWD\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-style-declaration.js133410514434077293 0
 63C:\Users\1\projects\BestShop_RWD\node_modules\is-glob\README.md133410514429440446 0
 95C:\Users\1\projects\BestShop_RWD\node_modules\caniuse-lite\data\features\once-event-listener.js133410514443391596 0
-41C:\Users\1\projects\BestShop_RWD\src\scss133414029074877326 1
+41C:\Users\1\projects\BestShop_RWD\src\scss133414054442020618 1
 92C:\Users\1\projects\BestShop_RWD\node_modules\css-select\lib\pseudo-selectors\pseudos.js.map133410514436298801 0
 79C:\Users\1\projects\BestShop_RWD\node_modules\weak-lru-cache\tests\benchmark.js133410514428596518 0
 106C:\Users\1\projects\BestShop_RWD\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133410514441706289 0
@@ -114,7 +114,7 @@
 80C:\Users\1\projects\BestShop_RWD\node_modules\@swc\helpers\_\_async_to_generator133410514440011998 1
 59C:\Users\1\projects\BestShop_RWD\node_modules\semver\ranges133410514435638461 1
 69C:\Users\1\projects\BestShop_RWD\node_modules\normalize-path\index.js133410514428337879 0
-52C:\Users\1\projects\BestShop_RWD\src\scss\components133414051101744823 1
+52C:\Users\1\projects\BestShop_RWD\src\scss\components133414054442015853 1
 90C:\Users\1\projects\BestShop_RWD\node_modules\lmdb\node_modules\msgpackr\dist\index.js.map133410514434794897 0
 85C:\Users\1\projects\BestShop_RWD\node_modules\@swc\helpers\cjs\_non_iterable_rest.cjs133410514436541470 0
 62C:\Users\1\projects\BestShop_RWD\node_modules\json5\LICENSE.md133410514432500019 0
@@ -140,7 +140,7 @@
 71C:\Users\1\projects\BestShop_RWD\node_modules\semver\functions\patch.js133410514434629227 0
 67C:\Users\1\projects\BestShop_RWD\node_modules\glob-parent\README.md133410514429816707 0
 80C:\Users\1\projects\BestShop_RWD\node_modules\type-fest\source\set-optional.d.ts133410514434664833 0
-48C:\Users\1\projects\BestShop_RWD\src\scss\layout133414002289635413 1
+48C:\Users\1\projects\BestShop_RWD\src\scss\layout133414054442020618 1
 95C:\Users\1\projects\BestShop_RWD\node_modules\@swc\helpers\_\_class_name_tdz_error\package.json133410514440296570 0
 117C:\Users\1\projects\BestShop_RWD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\convertor\index.js133410514436646235 0
 87C:\Users\1\projects\BestShop_RWD\node_modules\caniuse-lite\data\features\will-change.js133410514444848501 0
@@ -148,7 +148,7 @@
 71C:\Users\1\projects\BestShop_RWD\node_modules\@swc\counter\package.json133410514428365995 0
 97C:\Users\1\projects\BestShop_RWD\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js133410514429894109 0
 63C:\Users\1\projects\BestShop_RWD\node_modules\globals\readme.md133410514430255452 0
-51C:\Users\1\projects\BestShop_RWD\src\scss\main.scss133414023510978280 0
+51C:\Users\1\projects\BestShop_RWD\src\scss\main.scss133414054442020618 0
 64C:\Users\1\projects\BestShop_RWD\node_modules\commander\index.js133410514428758686 0
 57C:\Users\1\projects\BestShop_RWD\src\images\Checkmark.svg133410754615273384 0
 81C:\Users\1\projects\BestShop_RWD\node_modules\css-select\lib\esm\pseudo-selectors133410514437590570 1
@@ -172,7 +172,7 @@
 64C:\Users\1\projects\BestShop_RWD\node_modules\css-what\readme.md133410514433309836 0
 75C:\Users\1\projects\BestShop_RWD\node_modules\@swc\helpers\scripts\build.js133410514439734476 0
 97C:\Users\1\projects\BestShop_RWD\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133410514440587126 1
-56C:\Users\1\projects\BestShop_RWD\src\scss\variables.scss133414029074867363 0
+56C:\Users\1\projects\BestShop_RWD\src\scss\variables.scss133414054442020618 0
 86C:\Users\1\projects\BestShop_RWD\node_modules\caniuse-lite\data\features\es6-number.js133410514441453253 0
 76C:\Users\1\projects\BestShop_RWD\node_modules\type-fest\source\asyncify.d.ts133410514430149050 0
 74C:\Users\1\projects\BestShop_RWD\node_modules\ordered-binary\tests\test.js133410514430730320 0
@@ -218,7 +218,7 @@
 92C:\Users\1\projects\BestShop_RWD\node_modules\caniuse-lite\data\features\publickeypinning.js133410514443707666 0
 86C:\Users\1\projects\BestShop_RWD\node_modules\@swc\helpers\cjs\_is_native_function.cjs133410514436189523 0
 84C:\Users\1\projects\BestShop_RWD\node_modules\csso\node_modules\css-tree\lib\data.js133410514439441756 0
-71C:\Users\1\projects\BestShop_RWD\src\scss\layout\statistic-section.scss133414002289625460 0
+71C:\Users\1\projects\BestShop_RWD\src\scss\layout\statistic-section.scss133414054442020618 0
 79C:\Users\1\projects\BestShop_RWD\node_modules\lightningcss\node\targets.js.flow133410514430805936 0
 62C:\Users\1\projects\BestShop_RWD\node_modules\term-size\vendor133410514429946281 1
 68C:\Users\1\projects\BestShop_RWD\node_modules\@parcel\optimizer-svgo133410514429393523 1
@@ -250,7 +250,7 @@
 58C:\Users\1\projects\BestShop_RWD\node_modules\@parcel\core133410514440371795 1
 81C:\Users\1\projects\BestShop_RWD\node_modules\css-tree\cjs\syntax\scope\value.cjs133410514438748782 0
 68C:\Users\1\projects\BestShop_RWD\node_modules\term-size\package.json133410514431197782 0
-71C:\Users\1\projects\BestShop_RWD\src\scss\components\statistic_bar.scss133414051101736508 0
+71C:\Users\1\projects\BestShop_RWD\src\scss\components\statistic_bar.scss133414054442018253 0
 83C:\Users\1\projects\BestShop_RWD\node_modules\@parcel\core\test\BundleGraph.test.js133410514435726730 0
 59C:\Users\1\projects\BestShop_RWD\src\images\Ckechmark-1.svg133410754615273384 0
 79C:\Users\1\projects\BestShop_RWD\node_modules\css-select\lib\esm\index.d.ts.map133410514435597357 0
@@ -4562,7 +4562,7 @@
 91C:\Users\1\projects\BestShop_RWD\node_modules\abortcontroller-polyfill\dist\umd-polyfill.js133410514432157836 0
 59C:\Users\1\projects\BestShop_RWD\node_modules\@trysound\sax133410514429598191 1
 63C:\Users\1\projects\BestShop_RWD\node_modules\@trysound\sax\lib133410514428328410 1
-52C:\Users\1\projects\BestShop_RWD\.idea\workspace.xml133414051912124635 0
+52C:\Users\1\projects\BestShop_RWD\.idea\workspace.xml133414070045362983 0
 67C:\Users\1\projects\BestShop_RWD\node_modules\@trysound\sax\LICENSE133410514427970725 0
 69C:\Users\1\projects\BestShop_RWD\node_modules\@trysound\sax\README.md133410514429821674 0
 70C:\Users\1\projects\BestShop_RWD\node_modules\@trysound\sax\lib\sax.js133410514428629030 0
@@ -6031,9 +6031,9 @@
 59C:\Users\1\projects\BestShop_RWD\node_modules\.bin\svgo.ps1133410514456511701 0
 61C:\Users\1\projects\BestShop_RWD\dist\Background.fa568766.png133414049321085043 0
 62C:\Users\1\projects\BestShop_RWD\dist\BestShop_RWD.3464ddca.js133414049321125934 0
-56C:\Users\1\projects\BestShop_RWD\dist\index.b10d73a7.css133414049929779469 0
-60C:\Users\1\projects\BestShop_RWD\dist\index.b10d73a7.css.map133414049929809370 0
-48C:\Users\1\projects\BestShop_RWD\dist\index.html133414049321050302 0
+56C:\Users\1\projects\BestShop_RWD\dist\index.b10d73a7.css133414054441992838 0
+60C:\Users\1\projects\BestShop_RWD\dist\index.b10d73a7.css.map133414054442003986 0
+48C:\Users\1\projects\BestShop_RWD\dist\index.html133414067391190639 0
 57C:\Users\1\projects\BestShop_RWD\dist\Person.563280fd.svg133414049321050302 0
 49C:\Users\1\projects\BestShop_RWD\.idea\.gitignore133410510937649602 0
 55C:\Users\1\projects\BestShop_RWD\.idea\BestShop_RWD.iml133410510936032709 0
