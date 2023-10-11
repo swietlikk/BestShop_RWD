@@ -185,6 +185,10 @@ template, [hidden] {
   display: none;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 html, body {
   font-size: 16px;
 }
@@ -236,6 +240,7 @@ html, body {
 }
 
 .intro__btn {
+  background-color: #08a6e4;
   margin-top: 3.125rem;
   margin-bottom: 0;
   padding: 1.375rem 5.75rem 1.4375rem;
@@ -251,7 +256,6 @@ html, body {
 
 .btn {
   color: #fff;
-  background-color: #08a6e4;
   border-radius: 2.5rem;
   font-family: Open Sans, sans-serif;
   font-weight: 700;
@@ -289,6 +293,28 @@ html, body {
 
 .benefits__inner {
   max-width: 19.625rem;
+}
+
+.pricing {
+  flex-direction: nowrap;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.pricing__inner {
+  max-width: 19.625rem;
+}
+
+.pricing__inner--hdl {
+  color: #000;
+  justify-content: center;
+  margin-top: 3.33375rem;
+  margin-bottom: .875rem;
+  font-family: Raleway, sans-serif;
+  font-size: 2.25rem;
+  font-weight: 400;
+  display: flex;
 }
 
 .logo {
@@ -561,6 +587,124 @@ html, body {
   border-radius: .3125rem;
   width: 100%;
   height: 12.1875rem;
+}
+
+.pricing__boxes .frame {
+  flex-direction: nowrap;
+  border-radius: 1.125rem;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 15.6875rem;
+  margin-bottom: 4.1875rem;
+  padding: .6875rem;
+  display: flex;
+  position: relative;
+}
+
+.pricing__boxes .frame:first-child:hover {
+  transition: all .2s ease-in-out;
+  transform: scale(1.1);
+  box-shadow: 5px 10px 27px #feebef;
+}
+
+.pricing__boxes .frame:nth-child(2):hover {
+  transition: all .2s ease-in-out;
+  transform: scale(1.1);
+  box-shadow: 5px 10px 27px #07ace629;
+}
+
+.pricing__boxes .frame:last-child:hover {
+  transition: all .2s ease-in-out;
+  transform: scale(1.1);
+  box-shadow: 5px 10px 27px #ccf5e8;
+}
+
+.pricing__boxes .frame__basic {
+  border: .0625rem solid #fb3b64;
+}
+
+.pricing__boxes .frame__professional {
+  border: .0625rem solid #08a6e4;
+}
+
+.pricing__boxes .frame__premium {
+  border: .0625rem solid #55dfb4;
+}
+
+.pricing__boxes .frame .dsc {
+  flex-direction: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.pricing__boxes .frame .dsc__offer {
+  color: 16px;
+  font-family: Raleway, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.pricing__boxes .frame .dsc__price {
+  font-family: Open Sans, sans-serif;
+  font-size: 2.875rem;
+  font-weight: 300;
+}
+
+.pricing__boxes .frame .dsc__price--red {
+  color: #fb3b64;
+}
+
+.pricing__boxes .frame .dsc__price--blue {
+  color: #08a6e4;
+}
+
+.pricing__boxes .frame .dsc__price--green {
+  color: #55dfb4;
+}
+
+.pricing__boxes .frame .dsc__limited {
+  color: #000;
+  font-family: Raleway, sans-serif;
+  font-size: .75rem;
+  font-weight: 700;
+}
+
+.pricing__boxes .frame .items__item {
+  color: #000;
+  margin-bottom: 1.25rem;
+  font-family: Open Sans, sans-serif;
+  font-size: .875rem;
+  font-weight: 400;
+  list-style: none;
+}
+
+.pricing__boxes .frame .items__item img {
+  margin-right: .625rem;
+}
+
+.pricing__boxes .frame__btn {
+  width: 9.375rem;
+  height: 3.125rem;
+  padding: .9375rem 3.5625rem;
+  font-size: 1rem;
+  position: absolute;
+  top: 14.0625rem;
+  left: calc(50% - 75px);
+}
+
+.pricing__boxes .frame__btn--red {
+  background-color: #fb3b64;
+}
+
+.pricing__boxes .frame__btn--blue {
+  background-color: #08a6e4;
+}
+
+.pricing__boxes .frame__btn--green {
+  background-color: #55dfb4;
 }
 
 /*# sourceMappingURL=index.b10d73a7.css.map */
