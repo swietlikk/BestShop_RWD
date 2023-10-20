@@ -991,6 +991,14 @@ html, body {
 }
 
 .calc__select.open .select__dropdown {
+  color: #000;
+  margin-top: 0;
+  padding-inline: 0;
+  font-family: Open Sans, sans-serif;
+  font-size: .8125rem;
+  font-weight: 400;
+  text-decoration: none;
+  list-style: none;
   display: block;
 }
 

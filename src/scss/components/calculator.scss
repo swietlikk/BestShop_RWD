@@ -95,6 +95,7 @@
       border: px-to-rem(1px) solid $color-redish;
       overflow: hidden;
 
+
       li {
         font-size: px-to-rem(13px);
         padding: px-to-rem(10px) px-to-rem(20px);
@@ -114,6 +115,14 @@
 
       .select__dropdown {
         display: block;
+        font-family: "Open Sans", sans-serif;
+        font-size: px-to-rem(13px);
+        font-weight: 400;
+        color: $font-color;
+        text-decoration: none;
+        list-style: none;
+        margin-top: 0;
+        padding-inline: 0;
       }
     }
   }
