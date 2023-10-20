@@ -28,3 +28,8 @@
 
 }
 
+@mixin tablet {
+  @media (max-width: 1024px) {
+    @content;
+  }
+}
