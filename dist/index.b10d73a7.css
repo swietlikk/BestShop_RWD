@@ -1013,6 +1013,10 @@ html, body {
   display: flex;
 }
 
+.calc__summary ul {
+  margin-top: 0;
+}
+
 @media (width <= 1024px) {
   .calc__summary {
     width: 100%;
